@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e9c5f78c98d10645b0d1e0c2e5cfbdc, type: 3}
+  m_Name: Penguin
+  m_EditorClassIdentifier: 
+  value: 10
+  sprite: {fileID: -6394888585581640024, guid: a1d49168661a73a4e90033fcd52b225d, type: 3}
